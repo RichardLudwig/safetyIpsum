@@ -9,6 +9,10 @@ body, .lead {
   background-color: #eed202;
 }
 
+h1 {
+  font-weight: 900 !important;
+}
+
 .text-muted {
   color: black !important;
 }
